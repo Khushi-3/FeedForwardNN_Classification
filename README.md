@@ -12,11 +12,11 @@ The model includes the following functionalities:
 4.Training the Model
 5.Visualization
 
-#Scatter Plot
-![Scatter Plot!](![image](https://github.com/Khushi-3/FeedForwardNN_Classification/assets/95675533/ac232552-64af-4018-9b11-f7764b34b492)
-)
+# Scatter Plot
+![Scatter Plot!](scatter_plot.PNG)
+
 The following can be observed from the scatter plot:
-Red: Iris Setosa
-Green: Iris Versicolor
-Blue: Iris Virginica
+### Red: Iris Setosa 
+### Green: Iris Versicolor
+### Blue: Iris Virginica
 
